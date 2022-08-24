@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-@pytest.mark.usefixtures("setup","send")
+@pytest.mark.usefixtures("setup","param")
 class BasePage:
     def wait_presence(self, path):
         wait = WebDriverWait(self.driver, 10)
