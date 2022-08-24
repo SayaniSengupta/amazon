@@ -28,8 +28,8 @@ def setup(request):
     driver.maximize_window()
 
     request.cls.driver = driver
-    # yield
-    # driver.close()
+    yield
+    driver.close()
 @pytest.fixture
 def param(request):
     param = {'email': request.config.getoption('--email'),
