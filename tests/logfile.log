@@ -36,3 +36,441 @@
 2022-08-25 01:25:16,640 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
 2022-08-25 01:25:16,640 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
 2022-08-25 01:25:16,640 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:16,196 : INFO : test_home : search done
+2022-08-25 10:46:16,455 : INFO : test_sign : change window
+2022-08-25 10:46:24,216 : INFO : test_sign : successfully click on buy now
+2022-08-25 10:46:24,216 : INFO : test_sign : successfully click on buy now
+2022-08-25 10:46:24,718 : INFO : test_sign : send mail
+2022-08-25 10:46:24,718 : INFO : test_sign : send mail
+2022-08-25 10:46:24,718 : INFO : test_sign : send mail
+2022-08-25 10:46:25,819 : INFO : test_sign : continue
+2022-08-25 10:46:25,819 : INFO : test_sign : continue
+2022-08-25 10:46:25,819 : INFO : test_sign : continue
+2022-08-25 10:46:25,819 : INFO : test_sign : continue
+2022-08-25 10:46:28,009 : INFO : test_sign : send password
+2022-08-25 10:46:28,009 : INFO : test_sign : send password
+2022-08-25 10:46:28,009 : INFO : test_sign : send password
+2022-08-25 10:46:28,009 : INFO : test_sign : send password
+2022-08-25 10:46:28,009 : INFO : test_sign : send password
+2022-08-25 10:46:28,195 : INFO : test_sign : signin
+2022-08-25 10:46:28,195 : INFO : test_sign : signin
+2022-08-25 10:46:28,195 : INFO : test_sign : signin
+2022-08-25 10:46:28,195 : INFO : test_sign : signin
+2022-08-25 10:46:28,195 : INFO : test_sign : signin
+2022-08-25 10:46:28,195 : INFO : test_sign : signin
+2022-08-25 10:46:30,779 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,779 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,779 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,779 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,779 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,779 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,779 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,780 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,780 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,780 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,780 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,780 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,780 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,780 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:46:30,780 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:50:19,574 : INFO : test_home : search done
+2022-08-25 10:53:44,522 : INFO : test_home : search done
+2022-08-25 10:55:37,701 : INFO : test_home : search done
+2022-08-25 10:55:37,833 : INFO : test_sign : change window
+2022-08-25 10:55:48,757 : INFO : test_sign : successfully click on buy now
+2022-08-25 10:55:48,757 : INFO : test_sign : successfully click on buy now
+2022-08-25 10:55:48,836 : INFO : test_sign : send mail
+2022-08-25 10:55:48,836 : INFO : test_sign : send mail
+2022-08-25 10:55:48,836 : INFO : test_sign : send mail
+2022-08-25 10:55:50,373 : INFO : test_sign : continue
+2022-08-25 10:55:50,373 : INFO : test_sign : continue
+2022-08-25 10:55:50,373 : INFO : test_sign : continue
+2022-08-25 10:55:50,373 : INFO : test_sign : continue
+2022-08-25 10:55:52,446 : INFO : test_sign : send password
+2022-08-25 10:55:52,446 : INFO : test_sign : send password
+2022-08-25 10:55:52,446 : INFO : test_sign : send password
+2022-08-25 10:55:52,446 : INFO : test_sign : send password
+2022-08-25 10:55:52,446 : INFO : test_sign : send password
+2022-08-25 10:55:52,542 : INFO : test_sign : signin
+2022-08-25 10:55:52,542 : INFO : test_sign : signin
+2022-08-25 10:55:52,542 : INFO : test_sign : signin
+2022-08-25 10:55:52,542 : INFO : test_sign : signin
+2022-08-25 10:55:52,542 : INFO : test_sign : signin
+2022-08-25 10:55:52,542 : INFO : test_sign : signin
+2022-08-25 10:55:54,904 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,904 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,904 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,904 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,904 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,904 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,904 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,905 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,905 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,905 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,905 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,905 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,905 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,905 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 10:55:54,905 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:00:27,770 : INFO : test_home : search done
+2022-08-25 11:00:27,904 : INFO : test_sign : change window
+2022-08-25 11:00:55,635 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:00:55,635 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:00:55,773 : INFO : test_sign : send mail
+2022-08-25 11:00:55,773 : INFO : test_sign : send mail
+2022-08-25 11:00:55,773 : INFO : test_sign : send mail
+2022-08-25 11:00:57,454 : INFO : test_sign : continue
+2022-08-25 11:00:57,454 : INFO : test_sign : continue
+2022-08-25 11:00:57,454 : INFO : test_sign : continue
+2022-08-25 11:00:57,454 : INFO : test_sign : continue
+2022-08-25 11:00:59,514 : INFO : test_sign : send password
+2022-08-25 11:00:59,514 : INFO : test_sign : send password
+2022-08-25 11:00:59,514 : INFO : test_sign : send password
+2022-08-25 11:00:59,514 : INFO : test_sign : send password
+2022-08-25 11:00:59,514 : INFO : test_sign : send password
+2022-08-25 11:01:01,104 : INFO : test_sign : signin
+2022-08-25 11:01:01,104 : INFO : test_sign : signin
+2022-08-25 11:01:01,104 : INFO : test_sign : signin
+2022-08-25 11:01:01,104 : INFO : test_sign : signin
+2022-08-25 11:01:01,104 : INFO : test_sign : signin
+2022-08-25 11:01:01,104 : INFO : test_sign : signin
+2022-08-25 11:01:04,140 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,140 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,140 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,140 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,140 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,140 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,140 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,141 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,141 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,141 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,141 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,141 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,141 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,141 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:04,141 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:01:50,167 : INFO : test_home : search done
+2022-08-25 11:01:50,300 : INFO : test_sign : change window
+2022-08-25 11:02:01,906 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:02:01,906 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:02:01,990 : INFO : test_sign : send mail
+2022-08-25 11:02:01,990 : INFO : test_sign : send mail
+2022-08-25 11:02:01,990 : INFO : test_sign : send mail
+2022-08-25 11:02:03,386 : INFO : test_sign : continue
+2022-08-25 11:02:03,386 : INFO : test_sign : continue
+2022-08-25 11:02:03,386 : INFO : test_sign : continue
+2022-08-25 11:02:03,386 : INFO : test_sign : continue
+2022-08-25 11:02:05,469 : INFO : test_sign : send password
+2022-08-25 11:02:05,469 : INFO : test_sign : send password
+2022-08-25 11:02:05,469 : INFO : test_sign : send password
+2022-08-25 11:02:05,469 : INFO : test_sign : send password
+2022-08-25 11:02:05,469 : INFO : test_sign : send password
+2022-08-25 11:02:05,570 : INFO : test_sign : signin
+2022-08-25 11:02:05,570 : INFO : test_sign : signin
+2022-08-25 11:02:05,570 : INFO : test_sign : signin
+2022-08-25 11:02:05,570 : INFO : test_sign : signin
+2022-08-25 11:02:05,570 : INFO : test_sign : signin
+2022-08-25 11:02:05,570 : INFO : test_sign : signin
+2022-08-25 11:02:08,144 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,144 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,144 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,144 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,144 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,144 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,144 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,145 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,145 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,145 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,145 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,145 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,145 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,145 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:02:08,145 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:04:29,237 : INFO : test_home : search done
+2022-08-25 11:05:11,016 : INFO : test_home : search done
+2022-08-25 11:06:13,334 : INFO : test_home : search done
+2022-08-25 11:06:13,460 : INFO : test_sign : change window
+2022-08-25 11:06:21,807 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:06:21,807 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:06:21,906 : INFO : test_sign : send mail
+2022-08-25 11:06:21,906 : INFO : test_sign : send mail
+2022-08-25 11:06:21,906 : INFO : test_sign : send mail
+2022-08-25 11:06:23,567 : INFO : test_sign : continue
+2022-08-25 11:06:23,567 : INFO : test_sign : continue
+2022-08-25 11:06:23,567 : INFO : test_sign : continue
+2022-08-25 11:06:23,567 : INFO : test_sign : continue
+2022-08-25 11:06:25,655 : INFO : test_sign : send password
+2022-08-25 11:06:25,655 : INFO : test_sign : send password
+2022-08-25 11:06:25,655 : INFO : test_sign : send password
+2022-08-25 11:06:25,655 : INFO : test_sign : send password
+2022-08-25 11:06:25,655 : INFO : test_sign : send password
+2022-08-25 11:06:25,735 : INFO : test_sign : signin
+2022-08-25 11:06:25,735 : INFO : test_sign : signin
+2022-08-25 11:06:25,735 : INFO : test_sign : signin
+2022-08-25 11:06:25,735 : INFO : test_sign : signin
+2022-08-25 11:06:25,735 : INFO : test_sign : signin
+2022-08-25 11:06:25,735 : INFO : test_sign : signin
+2022-08-25 11:06:27,825 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,825 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,825 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,825 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,825 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,825 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,825 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,826 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,826 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,826 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,826 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,826 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,826 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,826 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:06:27,826 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:09:34,970 : INFO : test_home : search done
+2022-08-25 11:09:35,273 : INFO : test_sign : change window
+2022-08-25 11:18:44,125 : INFO : test_home : search done
+2022-08-25 11:18:44,255 : INFO : test_sign : change window
+2022-08-25 11:26:01,034 : INFO : test_home : search done
+2022-08-25 11:26:01,153 : INFO : test_sign : change window
+2022-08-25 11:26:06,550 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:26:06,550 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:26:06,653 : INFO : test_sign : send mail
+2022-08-25 11:26:06,653 : INFO : test_sign : send mail
+2022-08-25 11:26:06,653 : INFO : test_sign : send mail
+2022-08-25 11:26:07,800 : INFO : test_sign : continue
+2022-08-25 11:26:07,800 : INFO : test_sign : continue
+2022-08-25 11:26:07,800 : INFO : test_sign : continue
+2022-08-25 11:26:07,800 : INFO : test_sign : continue
+2022-08-25 11:26:09,844 : INFO : test_sign : send password
+2022-08-25 11:26:09,844 : INFO : test_sign : send password
+2022-08-25 11:26:09,844 : INFO : test_sign : send password
+2022-08-25 11:26:09,844 : INFO : test_sign : send password
+2022-08-25 11:26:09,844 : INFO : test_sign : send password
+2022-08-25 11:26:09,943 : INFO : test_sign : signin
+2022-08-25 11:26:09,943 : INFO : test_sign : signin
+2022-08-25 11:26:09,943 : INFO : test_sign : signin
+2022-08-25 11:26:09,943 : INFO : test_sign : signin
+2022-08-25 11:26:09,943 : INFO : test_sign : signin
+2022-08-25 11:26:09,943 : INFO : test_sign : signin
+2022-08-25 11:26:13,061 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,061 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,061 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,061 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,061 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,061 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,061 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,062 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,062 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,062 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,062 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,062 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,062 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,062 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:26:13,062 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:38:59,233 : INFO : test_home : search done
+2022-08-25 11:38:59,354 : INFO : test_sign : change window
+2022-08-25 11:39:04,714 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:39:04,714 : INFO : test_sign : successfully click on buy now
+2022-08-25 11:39:04,795 : INFO : test_sign : send mail
+2022-08-25 11:39:04,795 : INFO : test_sign : send mail
+2022-08-25 11:39:04,795 : INFO : test_sign : send mail
+2022-08-25 11:39:06,150 : INFO : test_sign : continue
+2022-08-25 11:39:06,150 : INFO : test_sign : continue
+2022-08-25 11:39:06,150 : INFO : test_sign : continue
+2022-08-25 11:39:06,150 : INFO : test_sign : continue
+2022-08-25 11:39:08,241 : INFO : test_sign : send password
+2022-08-25 11:39:08,241 : INFO : test_sign : send password
+2022-08-25 11:39:08,241 : INFO : test_sign : send password
+2022-08-25 11:39:08,241 : INFO : test_sign : send password
+2022-08-25 11:39:08,241 : INFO : test_sign : send password
+2022-08-25 11:39:08,322 : INFO : test_sign : signin
+2022-08-25 11:39:08,322 : INFO : test_sign : signin
+2022-08-25 11:39:08,322 : INFO : test_sign : signin
+2022-08-25 11:39:08,322 : INFO : test_sign : signin
+2022-08-25 11:39:08,322 : INFO : test_sign : signin
+2022-08-25 11:39:08,322 : INFO : test_sign : signin
+2022-08-25 11:39:10,972 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,972 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,972 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,972 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,972 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,972 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,972 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,974 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,974 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,974 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,974 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,974 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,974 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,974 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 11:39:10,974 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:09,682 : INFO : test_home : search done
+2022-08-25 12:27:09,808 : INFO : test_sign : change window
+2022-08-25 12:27:14,920 : INFO : test_sign : successfully click on buy now
+2022-08-25 12:27:14,920 : INFO : test_sign : successfully click on buy now
+2022-08-25 12:27:15,004 : INFO : test_sign : send mail
+2022-08-25 12:27:15,004 : INFO : test_sign : send mail
+2022-08-25 12:27:15,004 : INFO : test_sign : send mail
+2022-08-25 12:27:16,091 : INFO : test_sign : continue
+2022-08-25 12:27:16,091 : INFO : test_sign : continue
+2022-08-25 12:27:16,091 : INFO : test_sign : continue
+2022-08-25 12:27:16,091 : INFO : test_sign : continue
+2022-08-25 12:27:18,140 : INFO : test_sign : send password
+2022-08-25 12:27:18,140 : INFO : test_sign : send password
+2022-08-25 12:27:18,140 : INFO : test_sign : send password
+2022-08-25 12:27:18,140 : INFO : test_sign : send password
+2022-08-25 12:27:18,140 : INFO : test_sign : send password
+2022-08-25 12:27:18,259 : INFO : test_sign : signin
+2022-08-25 12:27:18,259 : INFO : test_sign : signin
+2022-08-25 12:27:18,259 : INFO : test_sign : signin
+2022-08-25 12:27:18,259 : INFO : test_sign : signin
+2022-08-25 12:27:18,259 : INFO : test_sign : signin
+2022-08-25 12:27:18,259 : INFO : test_sign : signin
+2022-08-25 12:27:20,837 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,837 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,837 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,837 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,837 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,837 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,837 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,839 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,839 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,839 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,839 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,839 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,839 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,839 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:27:20,839 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:12,037 : INFO : test_home : search done
+2022-08-25 12:32:12,167 : INFO : test_sign : change window
+2022-08-25 12:32:17,404 : INFO : test_sign : successfully click on buy now
+2022-08-25 12:32:17,404 : INFO : test_sign : successfully click on buy now
+2022-08-25 12:32:17,491 : INFO : test_sign : send mail
+2022-08-25 12:32:17,491 : INFO : test_sign : send mail
+2022-08-25 12:32:17,491 : INFO : test_sign : send mail
+2022-08-25 12:32:18,992 : INFO : test_sign : continue
+2022-08-25 12:32:18,992 : INFO : test_sign : continue
+2022-08-25 12:32:18,992 : INFO : test_sign : continue
+2022-08-25 12:32:18,992 : INFO : test_sign : continue
+2022-08-25 12:32:21,046 : INFO : test_sign : send password
+2022-08-25 12:32:21,046 : INFO : test_sign : send password
+2022-08-25 12:32:21,046 : INFO : test_sign : send password
+2022-08-25 12:32:21,046 : INFO : test_sign : send password
+2022-08-25 12:32:21,046 : INFO : test_sign : send password
+2022-08-25 12:32:21,131 : INFO : test_sign : signin
+2022-08-25 12:32:21,131 : INFO : test_sign : signin
+2022-08-25 12:32:21,131 : INFO : test_sign : signin
+2022-08-25 12:32:21,131 : INFO : test_sign : signin
+2022-08-25 12:32:21,131 : INFO : test_sign : signin
+2022-08-25 12:32:21,131 : INFO : test_sign : signin
+2022-08-25 12:32:23,234 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,234 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,234 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,234 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,234 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,234 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,234 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,236 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,236 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,236 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,236 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,236 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,236 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,236 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 12:32:23,236 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:12:22,033 : INFO : test_home : search done
+2022-08-25 14:12:22,162 : INFO : test_sign : change window
+2022-08-25 14:13:10,616 : INFO : test_sign : successfully click on buy now
+2022-08-25 14:13:10,616 : INFO : test_sign : successfully click on buy now
+2022-08-25 14:13:10,727 : INFO : test_sign : send mail
+2022-08-25 14:13:10,727 : INFO : test_sign : send mail
+2022-08-25 14:13:10,727 : INFO : test_sign : send mail
+2022-08-25 14:13:14,102 : INFO : test_sign : continue
+2022-08-25 14:13:14,102 : INFO : test_sign : continue
+2022-08-25 14:13:14,102 : INFO : test_sign : continue
+2022-08-25 14:13:14,102 : INFO : test_sign : continue
+2022-08-25 14:13:16,193 : INFO : test_sign : send password
+2022-08-25 14:13:16,193 : INFO : test_sign : send password
+2022-08-25 14:13:16,193 : INFO : test_sign : send password
+2022-08-25 14:13:16,193 : INFO : test_sign : send password
+2022-08-25 14:13:16,193 : INFO : test_sign : send password
+2022-08-25 14:13:16,285 : INFO : test_sign : signin
+2022-08-25 14:13:16,285 : INFO : test_sign : signin
+2022-08-25 14:13:16,285 : INFO : test_sign : signin
+2022-08-25 14:13:16,285 : INFO : test_sign : signin
+2022-08-25 14:13:16,285 : INFO : test_sign : signin
+2022-08-25 14:13:16,285 : INFO : test_sign : signin
+2022-08-25 14:13:18,594 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,594 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,594 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,594 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,594 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,594 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,594 : INFO : test_sign : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,595 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,595 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,595 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,595 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,595 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,595 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,595 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-25 14:13:18,595 : INFO : test_sign : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:16,974 : INFO : test_home_page : search done
+2022-08-26 15:31:17,159 : INFO : test_checkout_page : change window
+2022-08-26 15:31:25,936 : INFO : test_signin_page : successfully click on buy now
+2022-08-26 15:31:26,052 : INFO : test_signin_page : send mail
+2022-08-26 15:31:26,052 : INFO : test_signin_page : send mail
+2022-08-26 15:31:27,521 : INFO : test_signin_page : continue
+2022-08-26 15:31:27,521 : INFO : test_signin_page : continue
+2022-08-26 15:31:27,521 : INFO : test_signin_page : continue
+2022-08-26 15:31:29,594 : INFO : test_signin_page : send password
+2022-08-26 15:31:29,594 : INFO : test_signin_page : send password
+2022-08-26 15:31:29,594 : INFO : test_signin_page : send password
+2022-08-26 15:31:29,594 : INFO : test_signin_page : send password
+2022-08-26 15:31:29,720 : INFO : test_signin_page : signin
+2022-08-26 15:31:29,720 : INFO : test_signin_page : signin
+2022-08-26 15:31:29,720 : INFO : test_signin_page : signin
+2022-08-26 15:31:29,720 : INFO : test_signin_page : signin
+2022-08-26 15:31:29,720 : INFO : test_signin_page : signin
+2022-08-26 15:31:32,177 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,177 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,177 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,177 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,177 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,177 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,178 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,178 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,178 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,178 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,178 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,178 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:31:32,178 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-26 15:40:38,938 : INFO : test_home_page : search done
+2022-08-26 15:40:39,077 : INFO : test_checkout_page : change window
+2022-08-26 15:40:48,007 : INFO : test_signin_page : successfully click on buy now
+2022-08-26 15:40:48,109 : INFO : test_signin_page : send mail
+2022-08-26 15:40:48,109 : INFO : test_signin_page : send mail
+2022-08-26 15:40:49,366 : INFO : test_signin_page : continue
+2022-08-26 15:40:49,366 : INFO : test_signin_page : continue
+2022-08-26 15:40:49,366 : INFO : test_signin_page : continue
+2022-08-26 15:40:51,446 : INFO : test_signin_page : send password
+2022-08-26 15:40:51,446 : INFO : test_signin_page : send password
+2022-08-26 15:40:51,446 : INFO : test_signin_page : send password
+2022-08-26 15:40:51,446 : INFO : test_signin_page : send password
+2022-08-26 15:40:51,529 : INFO : test_signin_page : signin
+2022-08-26 15:40:51,529 : INFO : test_signin_page : signin
+2022-08-26 15:40:51,529 : INFO : test_signin_page : signin
+2022-08-26 15:40:51,529 : INFO : test_signin_page : signin
+2022-08-26 15:40:51,529 : INFO : test_signin_page : signin
+2022-08-26 15:40:53,560 : INFO : test_signin_page : Your password is incorrect
+2022-08-26 15:40:53,560 : INFO : test_signin_page : Your password is incorrect
+2022-08-26 15:40:53,560 : INFO : test_signin_page : Your password is incorrect
+2022-08-26 15:40:53,560 : INFO : test_signin_page : Your password is incorrect
+2022-08-26 15:40:53,560 : INFO : test_signin_page : Your password is incorrect
+2022-08-26 15:40:53,560 : INFO : test_signin_page : Your password is incorrect
+2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None
+2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None
+2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None
+2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None
+2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None
+2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None
+2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None

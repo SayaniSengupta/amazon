@@ -12,7 +12,7 @@ def pytest_addoption(parser):
     parser.addoption("--email", action="store", help="abcd@test.com")
     parser.addoption("--password", action="store", help="12345678")
     parser.addoption("--search_item", action="store", help="mobile")
-global driver
+
 
 @pytest.fixture(scope="class")
 def setup(request):
@@ -30,20 +30,15 @@ def setup(request):
     request.cls.driver = driver
     yield
     driver.close()
+
+
 @pytest.fixture
 def param(request):
     param = {'email': request.config.getoption('--email'),
-              'password': request.config.getoption('--password'),
-              'search_item': request.config.getoption('--search_item')}
+             'password': request.config.getoption('--password'),
+             'search_item': request.config.getoption('--search_item')}
 
     if param['email'] is None and param['password'] is None:
         pytest.skip()
-    request.cls.param = param
-    return
-
-
-
-
-
-
-
+    # request.cls.param = param
+    return param
