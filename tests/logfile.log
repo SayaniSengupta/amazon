@@ -474,3 +474,1745 @@
 2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None
 2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None
 2022-08-26 15:40:53,562 : INFO : test_signin_page : send msg:.None
+2022-08-27 14:05:21,537 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:06:56,048 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:09:11,974 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:11:00,025 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:12:37,078 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:13:29,730 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:13:55,760 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:20:26,315 : INFO : test_home_page : search done
+2022-08-27 14:20:26,331 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:22:53,031 : INFO : test_home_page : search done
+2022-08-27 14:22:53,045 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:24:15,356 : INFO : test_home_page : search done
+2022-08-27 14:24:15,483 : INFO : test_checkout_page : change window
+2022-08-27 14:24:22,000 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:24:22,112 : INFO : test_signin_page : send mail
+2022-08-27 14:24:22,112 : INFO : test_signin_page : send mail
+2022-08-27 14:24:24,215 : INFO : test_signin_page : continue
+2022-08-27 14:24:24,215 : INFO : test_signin_page : continue
+2022-08-27 14:24:24,215 : INFO : test_signin_page : continue
+2022-08-27 14:24:26,262 : INFO : test_signin_page : send password
+2022-08-27 14:24:26,262 : INFO : test_signin_page : send password
+2022-08-27 14:24:26,262 : INFO : test_signin_page : send password
+2022-08-27 14:24:26,262 : INFO : test_signin_page : send password
+2022-08-27 14:24:26,443 : INFO : test_signin_page : signin
+2022-08-27 14:24:26,443 : INFO : test_signin_page : signin
+2022-08-27 14:24:26,443 : INFO : test_signin_page : signin
+2022-08-27 14:24:26,443 : INFO : test_signin_page : signin
+2022-08-27 14:24:26,443 : INFO : test_signin_page : signin
+2022-08-27 14:24:28,484 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,484 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,484 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,484 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,484 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,484 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,485 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,485 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,485 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,485 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,485 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,485 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:24:28,485 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:35:50,794 : INFO : test_home_page : search done
+2022-08-27 14:35:50,913 : INFO : test_home_page : product list : None
+2022-08-27 14:35:50,913 : INFO : test_home_page : product list : None
+2022-08-27 14:35:50,922 : INFO : test_checkout_page : change window
+2022-08-27 14:35:57,111 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:35:57,207 : INFO : test_signin_page : send mail
+2022-08-27 14:35:57,207 : INFO : test_signin_page : send mail
+2022-08-27 14:35:58,193 : INFO : test_signin_page : continue
+2022-08-27 14:35:58,193 : INFO : test_signin_page : continue
+2022-08-27 14:35:58,193 : INFO : test_signin_page : continue
+2022-08-27 14:36:00,282 : INFO : test_signin_page : send password
+2022-08-27 14:36:00,282 : INFO : test_signin_page : send password
+2022-08-27 14:36:00,282 : INFO : test_signin_page : send password
+2022-08-27 14:36:00,282 : INFO : test_signin_page : send password
+2022-08-27 14:36:00,394 : INFO : test_signin_page : signin
+2022-08-27 14:36:00,394 : INFO : test_signin_page : signin
+2022-08-27 14:36:00,394 : INFO : test_signin_page : signin
+2022-08-27 14:36:00,394 : INFO : test_signin_page : signin
+2022-08-27 14:36:00,394 : INFO : test_signin_page : signin
+2022-08-27 14:36:02,701 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,701 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,701 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,701 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,701 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,701 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,729 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,729 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,729 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,729 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,729 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,729 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:36:02,729 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:47:17,740 : INFO : test_home_page : search done
+2022-08-27 14:47:17,757 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:49:07,913 : INFO : test_home_page : search done
+2022-08-27 14:49:07,951 : INFO : test_items : Samsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 512GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-08-27 14:49:07,965 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 14:49:07,965 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 14:49:07,976 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 14:49:07,976 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 14:49:07,976 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 14:49:08,003 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 14:49:08,003 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 14:49:08,003 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 14:49:08,003 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 14:49:08,021 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 14:49:08,021 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 14:49:08,021 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 14:49:08,021 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 14:49:08,021 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 14:49:08,034 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 14:49:08,034 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 14:49:08,034 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 14:49:08,034 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 14:49:08,034 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 14:49:08,034 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 14:49:08,046 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 14:49:08,046 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 14:49:08,046 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 14:49:08,046 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 14:49:08,046 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 14:49:08,046 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 14:49:08,046 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 14:49:08,058 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 14:49:08,058 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 14:49:08,058 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 14:49:08,058 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 14:49:08,058 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 14:49:08,058 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 14:49:08,058 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 14:49:08,058 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 14:49:08,070 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 14:49:08,070 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 14:49:08,070 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 14:49:08,070 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 14:49:08,070 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 14:49:08,070 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 14:49:08,070 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 14:49:08,070 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 14:49:08,070 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,083 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,097 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 128GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,109 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,122 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,134 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,146 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,160 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,178 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,190 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,202 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,214 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 14:49:08,338 : INFO : test_checkout_page : change window
+2022-08-27 14:49:16,029 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 14:49:16,117 : INFO : test_signin_page : send mail
+2022-08-27 14:49:16,117 : INFO : test_signin_page : send mail
+2022-08-27 14:49:17,367 : INFO : test_signin_page : continue
+2022-08-27 14:49:17,367 : INFO : test_signin_page : continue
+2022-08-27 14:49:17,367 : INFO : test_signin_page : continue
+2022-08-27 14:49:19,460 : INFO : test_signin_page : send password
+2022-08-27 14:49:19,460 : INFO : test_signin_page : send password
+2022-08-27 14:49:19,460 : INFO : test_signin_page : send password
+2022-08-27 14:49:19,460 : INFO : test_signin_page : send password
+2022-08-27 14:49:19,588 : INFO : test_signin_page : signin
+2022-08-27 14:49:19,588 : INFO : test_signin_page : signin
+2022-08-27 14:49:19,588 : INFO : test_signin_page : signin
+2022-08-27 14:49:19,588 : INFO : test_signin_page : signin
+2022-08-27 14:49:19,588 : INFO : test_signin_page : signin
+2022-08-27 14:49:22,564 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,564 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,564 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,564 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,564 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,564 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,565 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,565 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,565 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,565 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,565 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,565 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 14:49:22,565 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:04,216 : INFO : test_items : Samsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 512GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-08-27 15:41:04,229 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 15:41:04,229 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 15:41:04,241 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:41:04,241 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:41:04,241 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:41:04,253 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:41:04,253 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:41:04,253 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:41:04,253 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:41:04,279 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:41:04,279 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:41:04,279 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:41:04,279 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:41:04,279 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:41:04,293 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:41:04,293 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:41:04,293 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:41:04,293 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:41:04,293 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:41:04,293 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:41:04,304 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:41:04,304 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:41:04,304 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:41:04,304 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:41:04,304 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:41:04,304 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:41:04,304 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:41:04,318 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:41:04,318 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:41:04,318 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:41:04,318 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:41:04,318 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:41:04,318 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:41:04,318 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:41:04,318 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:41:04,331 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:41:04,331 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:41:04,331 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:41:04,331 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:41:04,331 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:41:04,331 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:41:04,331 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:41:04,331 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:41:04,331 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,343 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,354 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,368 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,381 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,393 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,404 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,423 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,442 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,461 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,475 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:41:04,592 : INFO : test_checkout_page : change window
+2022-08-27 15:41:10,165 : INFO : buy_product : search box is present
+2022-08-27 15:41:10,168 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 15:41:10,251 : INFO : test_signin_page : send mail
+2022-08-27 15:41:10,251 : INFO : test_signin_page : send mail
+2022-08-27 15:41:11,510 : INFO : test_signin_page : continue
+2022-08-27 15:41:11,510 : INFO : test_signin_page : continue
+2022-08-27 15:41:11,510 : INFO : test_signin_page : continue
+2022-08-27 15:41:13,595 : INFO : test_signin_page : send password
+2022-08-27 15:41:13,595 : INFO : test_signin_page : send password
+2022-08-27 15:41:13,595 : INFO : test_signin_page : send password
+2022-08-27 15:41:13,595 : INFO : test_signin_page : send password
+2022-08-27 15:41:13,711 : INFO : test_signin_page : signin
+2022-08-27 15:41:13,711 : INFO : test_signin_page : signin
+2022-08-27 15:41:13,711 : INFO : test_signin_page : signin
+2022-08-27 15:41:13,711 : INFO : test_signin_page : signin
+2022-08-27 15:41:13,711 : INFO : test_signin_page : signin
+2022-08-27 15:41:15,992 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,992 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,992 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,992 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,992 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,992 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,993 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,993 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,993 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,993 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,993 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,993 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:41:15,993 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:18,685 : INFO : homePage : search box is present
+2022-08-27 15:42:18,686 : INFO : test_home_page : search done
+2022-08-27 15:42:18,712 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 15:42:18,723 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:42:18,723 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:42:18,733 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:42:18,733 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:42:18,733 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:42:18,744 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:42:18,744 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:42:18,744 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:42:18,744 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:42:18,768 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:42:18,768 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:42:18,768 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:42:18,768 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:42:18,768 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:42:18,780 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:42:18,780 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:42:18,780 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:42:18,780 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:42:18,780 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:42:18,780 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:42:18,792 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:42:18,792 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:42:18,792 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:42:18,792 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:42:18,792 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:42:18,792 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:42:18,792 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:42:18,805 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:42:18,805 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:42:18,805 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:42:18,805 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:42:18,805 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:42:18,805 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:42:18,805 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:42:18,805 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:42:18,816 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:42:18,816 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:42:18,816 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:42:18,816 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:42:18,816 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:42:18,816 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:42:18,816 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:42:18,816 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:42:18,816 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,829 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,841 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,854 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,866 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,878 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,889 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,901 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,914 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:18,926 : INFO : test_items : Apple iPhone 13 Mini (256GB) - (Product) RED
+2022-08-27 15:42:19,051 : INFO : test_checkout_page : change window
+2022-08-27 15:42:28,372 : INFO : buy_product : search box is present
+2022-08-27 15:42:28,375 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 15:42:28,465 : INFO : test_signin_page : send mail
+2022-08-27 15:42:28,465 : INFO : test_signin_page : send mail
+2022-08-27 15:42:29,707 : INFO : test_signin_page : continue
+2022-08-27 15:42:29,707 : INFO : test_signin_page : continue
+2022-08-27 15:42:29,707 : INFO : test_signin_page : continue
+2022-08-27 15:42:31,785 : INFO : test_signin_page : send password
+2022-08-27 15:42:31,785 : INFO : test_signin_page : send password
+2022-08-27 15:42:31,785 : INFO : test_signin_page : send password
+2022-08-27 15:42:31,785 : INFO : test_signin_page : send password
+2022-08-27 15:42:31,917 : INFO : test_signin_page : signin
+2022-08-27 15:42:31,917 : INFO : test_signin_page : signin
+2022-08-27 15:42:31,917 : INFO : test_signin_page : signin
+2022-08-27 15:42:31,917 : INFO : test_signin_page : signin
+2022-08-27 15:42:31,917 : INFO : test_signin_page : signin
+2022-08-27 15:42:34,583 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,583 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,583 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,583 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,583 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,583 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,584 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,584 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,584 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,584 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,584 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,584 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:42:34,584 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:51:39,496 : INFO : homePage : search box is present
+2022-08-27 15:51:39,497 : INFO : test_home_page : search done
+2022-08-27 15:51:39,540 : INFO : test_items : Samsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 512GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-08-27 15:51:39,551 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 15:51:39,551 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 15:51:39,563 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:51:39,563 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:51:39,563 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:51:39,586 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:51:39,586 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:51:39,586 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:51:39,586 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:51:39,597 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:51:39,597 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:51:39,597 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:51:39,597 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:51:39,597 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:51:39,610 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:51:39,610 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:51:39,610 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:51:39,610 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:51:39,610 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:51:39,610 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:51:39,622 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:51:39,622 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:51:39,622 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:51:39,622 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:51:39,622 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:51:39,622 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:51:39,622 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:51:39,633 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:51:39,633 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:51:39,633 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:51:39,633 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:51:39,633 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:51:39,633 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:51:39,633 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:51:39,633 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:51:39,644 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:51:39,644 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:51:39,644 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:51:39,644 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:51:39,644 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:51:39,644 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:51:39,644 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:51:39,644 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:51:39,644 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,654 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,666 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,678 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,689 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,701 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,712 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,724 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,736 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,748 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,764 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:51:39,890 : INFO : test_checkout_page : change window
+2022-08-27 15:51:41,899 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 15:52:35,421 : INFO : homePage : search box is present
+2022-08-27 15:52:35,422 : INFO : test_home_page : search done
+2022-08-27 15:52:35,445 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 15:52:35,456 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:52:35,456 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:52:35,471 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:52:35,471 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:52:35,471 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:52:35,483 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:52:35,483 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:52:35,483 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:52:35,483 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:52:35,508 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:52:35,508 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:52:35,508 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:52:35,508 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:52:35,508 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:52:35,519 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:52:35,519 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:52:35,519 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:52:35,519 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:52:35,519 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:52:35,519 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:52:35,531 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:52:35,531 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:52:35,531 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:52:35,531 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:52:35,531 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:52:35,531 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:52:35,531 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:52:35,543 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:52:35,543 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:52:35,543 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:52:35,543 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:52:35,543 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:52:35,543 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:52:35,543 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:52:35,543 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:52:35,556 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:52:35,556 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:52:35,556 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:52:35,556 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:52:35,556 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:52:35,556 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:52:35,556 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:52:35,556 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:52:35,556 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,568 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,580 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,592 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,605 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,617 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,630 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,642 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,655 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:52:35,795 : INFO : test_checkout_page : change window
+2022-08-27 15:52:41,386 : INFO : test_checkout_page : button is present
+2022-08-27 15:52:41,386 : INFO : test_checkout_page : button is present
+2022-08-27 15:52:41,390 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 15:52:41,486 : INFO : test_signin_page : send mail
+2022-08-27 15:52:41,486 : INFO : test_signin_page : send mail
+2022-08-27 15:52:43,234 : INFO : test_signin_page : continue
+2022-08-27 15:52:43,234 : INFO : test_signin_page : continue
+2022-08-27 15:52:43,234 : INFO : test_signin_page : continue
+2022-08-27 15:52:45,321 : INFO : test_signin_page : send password
+2022-08-27 15:52:45,321 : INFO : test_signin_page : send password
+2022-08-27 15:52:45,321 : INFO : test_signin_page : send password
+2022-08-27 15:52:45,321 : INFO : test_signin_page : send password
+2022-08-27 15:52:45,411 : INFO : test_signin_page : signin
+2022-08-27 15:52:45,411 : INFO : test_signin_page : signin
+2022-08-27 15:52:45,411 : INFO : test_signin_page : signin
+2022-08-27 15:52:45,411 : INFO : test_signin_page : signin
+2022-08-27 15:52:45,411 : INFO : test_signin_page : signin
+2022-08-27 15:52:47,476 : INFO : test_signin_page : Your password is incorrect
+2022-08-27 15:52:47,476 : INFO : test_signin_page : Your password is incorrect
+2022-08-27 15:52:47,476 : INFO : test_signin_page : Your password is incorrect
+2022-08-27 15:52:47,476 : INFO : test_signin_page : Your password is incorrect
+2022-08-27 15:52:47,476 : INFO : test_signin_page : Your password is incorrect
+2022-08-27 15:52:47,476 : INFO : test_signin_page : Your password is incorrect
+2022-08-27 15:52:47,477 : INFO : test_signin_page : send msg:.None
+2022-08-27 15:52:47,477 : INFO : test_signin_page : send msg:.None
+2022-08-27 15:52:47,477 : INFO : test_signin_page : send msg:.None
+2022-08-27 15:52:47,477 : INFO : test_signin_page : send msg:.None
+2022-08-27 15:52:47,477 : INFO : test_signin_page : send msg:.None
+2022-08-27 15:52:47,477 : INFO : test_signin_page : send msg:.None
+2022-08-27 15:52:47,477 : INFO : test_signin_page : send msg:.None
+2022-08-27 15:55:05,449 : INFO : test_home_page : search is done
+2022-08-27 15:55:05,476 : INFO : test_items : Samsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 512GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-08-27 15:55:05,487 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver) + Wireless Charger Duo Pad 15W
+2022-08-27 15:55:05,487 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver) + Wireless Charger Duo Pad 15W
+2022-08-27 15:55:05,499 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:55:05,499 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:55:05,499 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:55:05,510 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:55:05,510 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:55:05,510 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:55:05,510 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:55:05,523 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:55:05,523 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:55:05,523 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:55:05,523 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:55:05,523 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:55:05,547 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:55:05,547 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:55:05,547 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:55:05,547 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:55:05,547 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:55:05,547 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:55:05,562 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:55:05,562 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:55:05,562 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:55:05,562 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:55:05,562 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:55:05,562 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:55:05,562 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:55:05,573 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:55:05,573 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:55:05,573 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:55:05,573 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:55:05,573 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:55:05,573 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:55:05,573 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:55:05,573 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:55:05,584 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:55:05,584 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:55:05,584 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:55:05,584 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:55:05,584 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:55:05,584 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:55:05,584 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:55:05,584 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:55:05,584 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,597 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,608 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,621 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,633 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,644 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,656 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,667 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,679 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,690 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,702 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:55:05,836 : INFO : test_checkout_page : change window
+2022-08-27 15:55:09,653 : INFO : test_checkout_page : button is not present
+2022-08-27 15:55:09,653 : INFO : test_checkout_page : button is not present
+2022-08-27 15:55:09,656 : INFO : test_signin_page : successfully click on buy now
+2022-08-27 15:57:01,283 : INFO : test_home_page : search is done
+2022-08-27 15:57:01,305 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 15:57:01,317 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:57:01,317 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 15:57:01,331 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:57:01,331 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:57:01,331 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 15:57:01,341 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:57:01,341 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:57:01,341 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:57:01,341 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 15:57:01,352 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:57:01,352 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:57:01,352 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:57:01,352 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:57:01,352 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 15:57:01,375 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:57:01,375 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:57:01,375 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:57:01,375 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:57:01,375 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:57:01,375 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 15:57:01,387 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:57:01,387 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:57:01,387 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:57:01,387 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:57:01,387 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:57:01,387 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:57:01,387 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 15:57:01,400 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:57:01,400 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:57:01,400 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:57:01,400 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:57:01,400 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:57:01,400 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:57:01,400 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:57:01,400 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 15:57:01,411 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:57:01,411 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:57:01,411 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:57:01,411 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:57:01,411 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:57:01,411 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:57:01,411 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:57:01,411 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:57:01,411 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,426 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,437 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,449 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,462 : INFO : test_items : Apple iPhone 13 (512GB) - Blue
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,474 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,486 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Midnight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,497 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,510 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,521 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Blue
+2022-08-27 15:57:01,646 : INFO : test_checkout_page : change window
+2022-08-27 15:57:07,545 : INFO : test_checkout_page : button is present
+2022-08-27 15:57:07,545 : INFO : test_checkout_page : button is present
+2022-08-27 15:57:07,648 : INFO : test_signin_page : send mail
+2022-08-27 15:57:08,673 : INFO : test_signin_page : continue
+2022-08-27 15:57:08,673 : INFO : test_signin_page : continue
+2022-08-27 15:57:10,718 : INFO : test_signin_page : send password
+2022-08-27 15:57:10,718 : INFO : test_signin_page : send password
+2022-08-27 15:57:10,718 : INFO : test_signin_page : send password
+2022-08-27 15:57:10,838 : INFO : test_signin_page : signin
+2022-08-27 15:57:10,838 : INFO : test_signin_page : signin
+2022-08-27 15:57:10,838 : INFO : test_signin_page : signin
+2022-08-27 15:57:10,838 : INFO : test_signin_page : signin
+2022-08-27 15:57:13,016 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,016 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,016 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,016 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,016 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,017 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,017 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,017 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,017 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,017 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 15:57:13,017 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:03,719 : INFO : test_home_page : search is done
+2022-08-27 16:19:03,743 : INFO : test_items : Samsung Galaxy Z Fold4 5G (Phantom Black, 12GB RAM, 512GB Storage) + Galaxy Watch4 Classic Bluetooth (46mm, Black)
+2022-08-27 16:19:03,754 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 16:19:03,754 : INFO : test_items : Samsung Galaxy Z Flip4 5G (Graphite, 8GB RAM, 256GB Storage) + Galaxy Watch4 Classic Bluetooth(42mm, Silver)
+2022-08-27 16:19:03,769 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 16:19:03,769 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 16:19:03,769 : INFO : test_items : Apple iPhone 13 (256GB) - Blue
+2022-08-27 16:19:03,780 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 16:19:03,780 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 16:19:03,780 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 16:19:03,780 : INFO : test_items : Suthar's Stylish Kechaoda K33 Mobile Phone Apple Look Design - Rose Pink (1.44 Inch)
+2022-08-27 16:19:03,791 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 16:19:03,791 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 16:19:03,791 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 16:19:03,791 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 16:19:03,791 : INFO : test_items : Apple iPhone 13 (256GB) - Starlight
+2022-08-27 16:19:03,815 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 16:19:03,815 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 16:19:03,815 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 16:19:03,815 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 16:19:03,815 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 16:19:03,815 : INFO : test_items : Apple iPhone 13 (256GB) - Midnight
+2022-08-27 16:19:03,828 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 16:19:03,828 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 16:19:03,828 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 16:19:03,828 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 16:19:03,828 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 16:19:03,828 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 16:19:03,828 : INFO : test_items : Apple iPhone 13 (256GB) - Pink
+2022-08-27 16:19:03,841 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 16:19:03,841 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 16:19:03,841 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 16:19:03,841 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 16:19:03,841 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 16:19:03,841 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 16:19:03,841 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 16:19:03,841 : INFO : test_items : Apple iPhone 13 (256 GB) - Green
+2022-08-27 16:19:03,854 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 16:19:03,854 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 16:19:03,854 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 16:19:03,854 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 16:19:03,854 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 16:19:03,854 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 16:19:03,854 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 16:19:03,854 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 16:19:03,854 : INFO : test_items : Apple iPhone 13 (256GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,865 : INFO : test_items : Apple iPhone 13 (512GB) - (Product) RED
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,877 : INFO : test_items : Xiaomi 11T Pro 5G Hyperphone(Meteorite Black,8GB RAM,256GB Storage)|SD 888|120W HyperCharge|Additional Exchange Offer| Get 3 Months of YouTube Premium Free!
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,890 : INFO : test_items : Apple iPhone 13 (512GB) - Pink
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,903 : INFO : test_items : Apple iPhone 13 (512 GB) - Green
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,915 : INFO : test_items : Apple iPhone 13 (512GB) - Starlight
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,927 : INFO : test_items : Apple iPhone 13 Mini (128GB) - (Product) RED
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,940 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Starlight
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,952 : INFO : test_items : Apple iPhone 13 Mini (256GB) - Pink
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,963 : INFO : test_items : Apple iPhone 13 Pro (256 GB) - Alpine Green
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:03,975 : INFO : test_items : Apple iPhone 13 Pro (128GB) - Graphite
+2022-08-27 16:19:04,104 : INFO : test_checkout_page : change window
+2022-08-27 16:19:09,635 : INFO : test_checkout_page : button is present
+2022-08-27 16:19:09,635 : INFO : test_checkout_page : button is present
+2022-08-27 16:19:09,734 : INFO : test_signin_page : send mail
+2022-08-27 16:19:10,947 : INFO : test_signin_page : continue
+2022-08-27 16:19:10,947 : INFO : test_signin_page : continue
+2022-08-27 16:19:13,028 : INFO : test_signin_page : send password
+2022-08-27 16:19:13,028 : INFO : test_signin_page : send password
+2022-08-27 16:19:13,028 : INFO : test_signin_page : send password
+2022-08-27 16:19:13,167 : INFO : test_signin_page : signin
+2022-08-27 16:19:13,167 : INFO : test_signin_page : signin
+2022-08-27 16:19:13,167 : INFO : test_signin_page : signin
+2022-08-27 16:19:13,167 : INFO : test_signin_page : signin
+2022-08-27 16:19:15,586 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,586 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,586 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,586 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,586 : INFO : test_signin_page : To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,587 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,587 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,587 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,587 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,587 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
+2022-08-27 16:19:15,587 : INFO : test_signin_page : send msg:.To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.
