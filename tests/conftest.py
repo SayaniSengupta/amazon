@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.service import Service
 
 from config.con import TestData
 
-
+driver = None
 def pytest_addoption(parser):
     parser.addoption(
         "--browser_name", action="store", default="chrome"
@@ -16,7 +16,7 @@ def pytest_addoption(parser):
 
 @pytest.fixture(scope="class")
 def setup(request):
-    driver = None
+    global driver
     browser_name = request.config.getoption("browser_name")
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument('--ignore-certificate-error')
@@ -28,8 +28,9 @@ def setup(request):
     driver.maximize_window()
 
     request.cls.driver = driver
+
     yield
-    driver.close()
+    driver.quit()
 
 
 @pytest.fixture
@@ -42,3 +43,5 @@ def param(request):
         pytest.skip()
     # request.cls.param = param
     return param
+
+
